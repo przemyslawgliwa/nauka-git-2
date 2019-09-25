@@ -1,1 +1,1 @@
-# nauka-git-2
+# nauka gita
